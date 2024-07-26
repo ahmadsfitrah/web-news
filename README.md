@@ -17,7 +17,7 @@ Clone repository ini ke direktori lokal Anda:
 
 ```bash
 
-git clone https://github.com/arislaode/news-app.git
+git clone https://github.com/ahmadsfitrah/web-news.git
 
 cd news-app
 
