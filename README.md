@@ -1,4 +1,4 @@
-# News App
+# Berita Kita
 
 ## Deskripsi
 News App adalah aplikasi web untuk menampilkan berita terkini.
