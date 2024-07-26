@@ -1,7 +1,7 @@
 # Berita Kita
 
 ## Deskripsi
-News App adalah aplikasi web untuk menampilkan berita terkini.
+Berita Kita adalah aplikasi web untuk menampilkan berita terkini.
 
 ## Prasyarat
 - PHP >= 8.2
@@ -40,6 +40,21 @@ Salin file .env.example ke .env dan sesuaikan konfigurasi environment Anda:
 
 ```bash
 cp .env.example .env
+```
+
+### Migrasi inisial laravel
+menjalankan semua migrasi awal project laravel:
+
+```bash
+php artisan migrate
+
+```
+
+### Build Assets
+Build aset menggunakan Vite:
+
+```bash
+npm run build
 ```
 
 ### Konfigurasi Postgresql
